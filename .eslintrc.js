@@ -4,7 +4,11 @@ module.exports = {
   },
 
   plugins: ['prettier', 'node'],
-  extends: ['eslint:recommended', 'plugin:prettier/recommended', 'plugin:node/recommended'],
+  extends: [
+    'eslint:recommended',
+    'plugin:prettier/recommended',
+    'plugin:node/recommended',
+  ],
   env: {
     node: true,
   },
