@@ -1,6 +1,16 @@
 {
   "name": "ember-named-service-codemod",
   "version": "0.1.0",
+  "description": "A codemod to convert Ember.js service injections to include the service name argument ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziw/ember-named-service-codemod.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ziw/ember-named-service-codemod/issues"
+  },
+  "author": "Zi Wang",
+  "homepage": "https://github.com/ziw/ember-named-service-codemod#readme",
   "scripts": {
     "lint": "eslint --cache .",
     "test": "codemod-cli test",
