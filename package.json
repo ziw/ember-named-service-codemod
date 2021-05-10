@@ -11,6 +11,7 @@
   },
   "author": "Zi Wang",
   "homepage": "https://github.com/ziw/ember-named-service-codemod#readme",
+  "license": "MIT",
   "scripts": {
     "lint": "eslint --cache .",
     "test": "codemod-cli test",
