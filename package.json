@@ -1,6 +1,6 @@
 {
   "name": "ember-named-service-codemod",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A codemod to convert Ember.js service injections to include the service name argument ",
   "repository": {
     "type": "git",
